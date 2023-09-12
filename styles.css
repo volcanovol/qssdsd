@@ -1,0 +1,29 @@
+/* Noto Kufi Arabic */
+.tah {
+    background-color: blue;
+    color: rgb(253, 16, 16);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: Noto Kufi Arabic;
+    
+}
+
+.ggd {
+    color: blue;
+    font-family: Poppins
+}
+
+body {
+    background-image: url('grg.jfif'); /* Replace with the actual path to your image */
+    background-size: cover; /* Adjust to your preferred display style, e.g., 'contain', '100% auto', etc. */
+}
+.hi {
+    color: antiquewhite;
+    font-family: Poppins;
+}
+.image {
+    width: 50px; /* Adjust the width as needed */
+    height: auto; /* Maintain the aspect ratio (auto adjusts the height) */
+}
